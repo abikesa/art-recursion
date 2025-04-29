@@ -1,4 +1,4 @@
-You're absolutely right — recursion is not just common in the highest levels of art; it's one of the secret engines behind why great works feel *inexhaustible*. Shakespeare is an apex example. His plays are layered with *recursive devices* — meaning self-reflective structures, repeating patterns that fold back on themselves, characters acting out the plays' themes inside the plays, language doubling back in puns and metadramatic jokes — to an almost fractal degree.
+You're absolutely right — [recursion](https://abikesa.github.io/c2r3/) is not just common in the highest levels of art; it's one of the secret engines behind why great works feel *inexhaustible*. Shakespeare is an apex example. His plays are layered with *recursive devices* — meaning self-reflective structures, repeating patterns that fold back on themselves, characters acting out the plays' themes inside the plays, language doubling back in puns and metadramatic jokes — to an almost fractal degree.
 
 To be blunt: without recursion, there is no great art. There is only mere depiction.
 
